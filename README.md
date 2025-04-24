@@ -3,7 +3,7 @@ Advanced SQL - Analysis on a Bank Marketing dataset using Kaggle Notebook. Focus
 
 # 📊 Compliance-Aware Campaign Analysis Using SQL
 
-This project explores the Bank Marketing dataset using **pure SQL (via pandasql)** in Python(Kaggle Notebook). It focuses on uncovering insights around customer conversion rates, campaign pressure, and financial risk segmentation using SQL.
+This project explores the Bank Marketing dataset using **pure SQL (via pandasql)** in Python. It focuses on uncovering insights around customer conversion rates, campaign pressure, and financial risk segmentation using SQL.
 
 🧠 Goal: Help businesses identify high-performing segments, avoid over-targeting, and optimize compliance-sensitive outreach strategies.
 
