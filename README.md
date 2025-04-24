@@ -16,7 +16,7 @@ This project explores the Bank Marketing dataset using **pure SQL (via pandasql)
 - `pandasql` (SQLite backend)
 - Python (only for running SQL, no pandas EDA or matplotlib)
   
-##Business Value
+## ✅ Business Value
 - Prevents campaign waste via over-targeting detection
 - Improves segmentation based on job, age, and education
 - Supports risk mitigation by linking financial status to outcomes
