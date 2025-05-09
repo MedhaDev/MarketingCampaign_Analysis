@@ -1,8 +1,7 @@
-# Data Analyst Interview Prep – Personal Projects
+# Data Analysis – Personal Projects
 
 This repository contains a collection of personal projects created as part of my preparation for data analyst interviews. These small, focused exercises help reinforce my skills in SQL, Python, and data analysis techniques.
 
----
 
 ## About
 
@@ -14,7 +13,6 @@ The goal of this repository is to document my learning process through hands-on 
 - Cleaning, transforming, and visualizing data
 - Business problem solving through analytics
 
----
 
 ## Tools and Technologies
 
@@ -22,7 +20,6 @@ The goal of this repository is to document my learning process through hands-on 
 - Python (pandas, numpy, matplotlib, seaborn)
 - Jupyter Notebooks
 
----
 
 ## Structure
 
@@ -32,7 +29,6 @@ Each folder or notebook in this repository is a standalone project. Most include
 - A Python notebook or SQL script
 - Comments explaining the logic behind the solution
 
----
 
 ## Notes
 
