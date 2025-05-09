@@ -1,23 +1,39 @@
-# MarketingCampaign_Analysis
-Advanced SQL - Analysis on a Bank Marketing dataset using Kaggle Notebook. Focused on conversion trends, targeting logic, risk segmentation, and compliance-aware campaign evaluation.
+# Data Analyst Interview Prep – Personal Projects
 
-# 📊 Compliance-Aware Campaign Analysis Using SQL
+This repository contains a collection of personal projects created as part of my preparation for data analyst interviews. These small, focused exercises help reinforce my skills in SQL, Python, and data analysis techniques.
 
-This project explores the Bank Marketing dataset using **pure SQL (via pandasql)** in Python. It focuses on uncovering insights around customer conversion rates, campaign pressure, and financial risk segmentation using SQL.
+---
 
-🧠 Goal: Help businesses identify high-performing segments, avoid over-targeting, and optimize compliance-sensitive outreach strategies.
+## About
 
-## 📌 Dataset
-- **Source**: UCI Bank Marketing Dataset
-- **Use Case**: Direct marketing campaigns for a term deposit
+The goal of this repository is to document my learning process through hands-on practice. Each project is self-contained and typically explores one or more of the following areas:
 
+- SQL query writing and optimization
+- Data analysis with Python (pandas, numpy)
+- Exploratory data analysis (EDA)
+- Cleaning, transforming, and visualizing data
+- Business problem solving through analytics
 
-## 🛠️ Tools Used
-- `pandasql` (SQLite backend)
-- Python (only for running SQL, no pandas EDA or matplotlib)
-  
-## ✅ Business Value
-- Prevents campaign waste via over-targeting detection
-- Improves segmentation based on job, age, and education
-- Supports risk mitigation by linking financial status to outcomes
-- Enables ethical targeting by profiling outreach effectiveness
+---
+
+## Tools and Technologies
+
+- SQL (including CTEs, subqueries, joins, and window functions)
+- Python (pandas, numpy, matplotlib, seaborn)
+- Jupyter Notebooks
+
+---
+
+## Structure
+
+Each folder or notebook in this repository is a standalone project. Most include:
+
+- A short problem description or context
+- A Python notebook or SQL script
+- Comments explaining the logic behind the solution
+
+---
+
+## Notes
+
+This is a personal learning space, so some projects are works in progress or designed to explore specific concepts rather than present polished solutions.
