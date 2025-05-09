@@ -27,7 +27,7 @@ Each folder or notebook in this repository is a standalone project. Most include
 
 - A short problem description or context
 - A Python notebook or SQL script
-- Comments explaining the logic behind the solution
+- Comments explaining the logic behind the code and results
 
 
 ## Notes
