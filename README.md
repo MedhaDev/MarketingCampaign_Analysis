@@ -16,7 +16,7 @@ The goal of this repository is to document my learning process through hands-on 
 
 ## Tools and Technologies
 
-- SQL (including CTEs, subqueries, joins, and window functions)
+- SQL (CTEs, subqueries, joins, and window functions)
 - Python (pandas, numpy, matplotlib, seaborn)
 - Jupyter Notebooks
 
